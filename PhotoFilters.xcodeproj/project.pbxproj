@@ -14,6 +14,7 @@
 		92A5C0F21A5E8A4D006C180B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92A5C0F11A5E8A4D006C180B /* Images.xcassets */; };
 		92A5C0F51A5E8A4D006C180B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 92A5C0F31A5E8A4D006C180B /* LaunchScreen.xib */; };
 		92A5C1011A5E8A4D006C180B /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A5C1001A5E8A4D006C180B /* PhotoFiltersTests.swift */; };
+		92A5C10D1A5E8E2A006C180B /* euro-disney-paris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92A5C10C1A5E8E2A006C180B /* euro-disney-paris.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		92A5C0FA1A5E8A4D006C180B /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		92A5C0FF1A5E8A4D006C180B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92A5C1001A5E8A4D006C180B /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		92A5C10C1A5E8E2A006C180B /* euro-disney-paris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "euro-disney-paris.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		92A5C0D91A5E8A4D006C180B = {
 			isa = PBXGroup;
 			children = (
+				92A5C10C1A5E8E2A006C180B /* euro-disney-paris.jpg */,
 				92A5C0E41A5E8A4D006C180B /* PhotoFilters */,
 				92A5C0FD1A5E8A4D006C180B /* PhotoFiltersTests */,
 				92A5C0E31A5E8A4D006C180B /* Products */,
@@ -195,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92A5C10D1A5E8E2A006C180B /* euro-disney-paris.jpg in Resources */,
 				92A5C0F01A5E8A4D006C180B /* Main.storyboard in Resources */,
 				92A5C0F51A5E8A4D006C180B /* LaunchScreen.xib in Resources */,
 				92A5C0F21A5E8A4D006C180B /* Images.xcassets in Resources */,
